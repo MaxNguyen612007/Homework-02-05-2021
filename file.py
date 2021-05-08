@@ -1,3 +1,4 @@
 name = 'Max Nguyen'
-print("DOGECOIN IS BETTER THAN BITCOIN")
-print(6 * 9 + 6 + 9)
+print(name + 'was born in')
+year_born = 2007
+print(year_born)
